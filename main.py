@@ -67,4 +67,4 @@ def keep_alive():
 keep_alive()
 
 # Iniciar el bot (reemplaza con tu token)
-bot.run("MTIzMDE3NTk5MzY1MDQ3OTE5Ng.GfS551.CgXVB4GtnJ6Ygl-Bh3vOru3HGqf3wvk4ZWhwNA")
+bot.run("MTIzMDE3NTk5MzY1MDQ3OTE5Ng.GYDuDE.sOl55bsS4ZRRDnIEHF_ORab45nHK7FrTXYNlMo")
