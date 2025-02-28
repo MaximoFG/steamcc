@@ -1,0 +1,11 @@
+discord
+
+discord.py
+
+os
+
+threading
+
+discord.ext
+
+flask
